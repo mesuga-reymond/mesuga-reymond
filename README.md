@@ -48,17 +48,7 @@
     <td>Mesuga, Reymond R.</td>
   </tr>
   <tr>
-    <td>Deep Learning and Medical Imaging</td>
-    <td><a href="https://www.researchgate.net/publication/378311824_INVESTIGATION_ON_THE_EFFECTS_OF_RADIOGRAPHIC_IMAGE_QUALITY_ATTRIBUTES_ON_THE_PERFORMANCE_OF_CONVOLUTIONAL_NEURAL_NETWORKS_CNNS_IN_DETECTING_COVID-19">Investigation on the Effects of Digital Radiographic Image Qualities on the Performance of Convolutional Neural Networks (CNNs) With COVID-19 Data</a></td>
-    <td>Mesuga*, Pernes and Villacruz</td>
+    <td>Computational Statistics and Machine Learning</td>
+    <td><a href="https://drive.google.com/file/d/19R37CzjmDNzVAiLXj7ZfitPz-mu5YmR3/view?usp=drivesdk">Anomaly Detection in Raw Survey Data: An Interpretable Approach Using K-Means Clustering on World Values Survey Wave 7</a></td>
+    <td>Mesuga, Reymond R.</td>
   </tr>
-  <tr>
-    <td>Artificial Intelligence</td>
-    <td>CoVision19: An Artificial Intelligence-Based Software for COVID-19
-Likelihood Prediction Using the Combination of X-ray and
-Symptoms Data</td>
-    <td>Mesuga*, Pernes and Villacruz</td>
-  </tr>
-</table>
-
-
