@@ -33,22 +33,18 @@
 
 <table>
   <tr>
-    <th>Research Field</th>
     <th>Research Title</th>
     <th>Author(s)</th>
   </tr>
   <tr>
-    <td>Deep Learning and Astrophysics</td>
     <td><a href="https://arxiv.org/abs/2107.01863">A Deep Transfer Learning Approach on Identifying Glitch Wave-form in Gravitational Wave Data</a></td>
     <td>Mesuga, Reymond* and Bayanay, Brian James</td>
   </tr>
   <tr>
-    <td>Particle Physics and Artificial Intelligence</td>
     <td><a href="https://arxiv.org/abs/2205.14828">Lepton Flavour Violation Identification in Tau Decay (τ− → μ−μ−μ+) Using Artificial Intelligence</a></td>
     <td>Mesuga, Reymond R.</td>
   </tr>
   <tr>
-    <td>Computational Statistics and Machine Learning</td>
     <td><a href="https://drive.google.com/file/d/19R37CzjmDNzVAiLXj7ZfitPz-mu5YmR3/view?usp=drivesdk">Anomaly Detection in Raw Survey Data: An Interpretable Approach Using K-Means Clustering on World Values Survey Wave 7</a></td>
     <td>Mesuga, Reymond R.</td>
   </tr>
