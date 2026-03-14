@@ -37,6 +37,10 @@
     <th>Author(s)</th>
   </tr>
   <tr>
+    <td><a href="https://publishing.pup.edu.ph/ojs/index.php/PUP-JST/article/view/56">Investigation on the effects of radiographic image quality attributes on the performance of convolutional neural networks (CNNS) in detecting COVID-19</a></td>
+    <td>Mesuga, Pernes, Villacruz, and Burgonio</td>
+  </tr>
+  <tr>
     <td><a href="https://arxiv.org/abs/2107.01863">A Deep Transfer Learning Approach on Identifying Glitch Wave-form in Gravitational Wave Data</a></td>
     <td>Mesuga, Reymond* and Bayanay, Brian James</td>
   </tr>
