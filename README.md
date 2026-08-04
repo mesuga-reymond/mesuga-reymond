@@ -31,7 +31,7 @@
   </tr>
 </table> -->
 
-<table>
+<!-- <table>
   <tr>
     <th>Research Title</th>
     <th>Author(s)</th>
@@ -51,4 +51,4 @@
   <tr>
     <td><a href="https://drive.google.com/file/d/19R37CzjmDNzVAiLXj7ZfitPz-mu5YmR3/view?usp=drivesdk">Anomaly Detection in Raw Survey Data: An Interpretable Approach Using K-Means Clustering on World Values Survey Wave 7</a></td>
     <td>Mesuga, Reymond R.</td>
-  </tr>
+  </tr> -->
